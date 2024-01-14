@@ -12,5 +12,5 @@ A brief description of what this project
 
 ## Acknowledgements
 
- - [PPT Sharing Session (Mul. LinReg)](https://upertamina-my.sharepoint.com/:p:/r/personal/105219007_student_universitaspertamina_ac_id/_layouts/15/Doc.aspx?sourcedoc=%7BA299073F-49BA-42DB-86F6-F8F8C1B0EA1F%7D&file=Data%20Analytics%20with%20Multiple%20Regression.pptx&action=edit&mobileredirect=true)
- - [Hands On (Mul. LinReg)]()
+ - [PPT Sharing Session (Mul. LinReg)](https://upertamina-my.sharepoint.com/:p:/g/personal/105219007_student_universitaspertamina_ac_id/Ec2f9ire4J1KjyVJ5OQmKCUBBi321k74TtJc1iQ3vK4_iA)
+ - [Hands On (Mul. LinReg)](https://colab.research.google.com/drive/1AvEYJTZ0varutxuhTUaGBo90zAskVA5S?usp=sharing)
